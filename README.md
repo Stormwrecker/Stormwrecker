@@ -1,0 +1,1 @@
+Hi, I'm Stormwrecker. I work in Python. And CS50. And other stuff (like a major PC game). I have a Youtube channel, but it has nothing to do with coding. It's called "Stormwrecker," and it's about lego stop-motion. Other than that, you don't need to know anything more about me. So I'll stop writing. And you'll stop reading this.
