@@ -8,10 +8,3 @@ My Itch Account: https://stormwrecker.itch.io/
 
 My Youtube Channel: https://www.youtube.com/@StormwreckerOfficial      
 (Older videos are some LEGO stop-motion films; Newer ones are devlogs for my first game)
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="top" src="https://github-readme-stats.vercel.app/api?username=stormwrecker" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="top" src="https://github-readme-stats.vercel.app/api/top-langs?username=stormwrecker&layout=compact&langs_count=8&card_width=320" />
-</a>
